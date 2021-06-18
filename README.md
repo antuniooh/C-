@@ -1,15 +1,101 @@
-# URI Resolutions
+# URI Online Judge - Solutions
 
-Resoluções de problemas do URI desenvolvidos em C++ e Python. 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Indice
+> All my solutions for problems from URI Online Judge.
 
-```
-1 - Iniciante
-2 - AD-HOC 
-3 - Strings 
-4 - Estruturas e Bibliotecas 
-5 - Matemática 
-7 - Grafos
-8 - Geometria 
-```
+> Keywords: `URI`, `judge`, `problems`, `contests`, `competitive`, `programming`, `solutions`, `ad-hoc`, `sql`, `strings`, `algorithms`, `math`, `graphs`
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Problem Repository](#problem-repository)
+* [Competition and Ranking](#competition-and-ranking)
+* [My Profile](#my-profile)
+* [My Progress](#my-progress)
+* [Contact](#contact)
+* [License](#license)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
+
+![](uri-logo.png)
+
+The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing.
+
+## Problem Repository
+
+The URI Online Judge contains more than 1000 problems divided in 8 big categories.
+
+* <strong>1 - Beginner</strong>: Basic problems for anyone who has just started to program (304 problems)
+* <strong>2 - Ad-Hoc</strong>: Simulation Problems, Dates, Games and General Ad-Hoc (703 problems)
+* <strong>3 - Strings</strong>: Palindromes, Frequency, Ad-Hoc, LCS, String manipulation (129 problems)
+* <strong>4 - Data Structures and Libraries</strong>: Queue, Stack, Sort, Map, Set (153 problems)
+* <strong>5 - Mathematics</strong>: Number Theory, Prime Numbers, Combinatories, BigInteger (235 problems)
+* <strong>6 - Paradigms</strong>: Dynamic Programming, Binary Search, Greedy, Backtracking (192 problems)
+* <strong>7 - Graph</strong>: Flood fill, MST, SSSP, DAG, Maximum Flow, Tree (232 problems)
+* <strong>8 - Computational Geometry</strong>: Points and Lines, Polygon (73 problems)
+* <strong>9 - SQL</strong>: Query Languages: SELECT, INSERT, UPDATE, DELETE, CREATE (48 problems)
+
+This division help the users to focus on specific programming topics. All problems are available in Portuguese and English.
+
+## My Profile
+* <b>Name:</b> <a href="https://www.urionlinejudge.com.br/judge/pt/profile/364028">Gustavo Muniz</a>
+* <b>Country:</b> Brazil
+* <b>University:</b> Centro Universitário FEI - <a href="https://www.urionlinejudge.com.br/judge/en/users/university/fei">FEI</a>
+* <b>Since:</b> 24/06/2019
+* <b>Main Rank Position:</b> 5.067º
+* <b>Institution Rank Position:</b> 36º
+
+## My Progress
+* <b>Points:</b> 545,51
+* <b>Solved:</b> 144 (6.42%)
+* <b>Tried:</b> 160
+* <b>Submissions:</b> 494
+* <b>Hardest Solved:</b> 1834
+* <b>Hardest Tried:</b> 1797
+	* 01 - [Beginner Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/01-beginner)
+	* 02 - [Ad-Hoc Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/02-ad-hoc)
+	* 03 - [Strings Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/03-strings)
+	* 04 - [Structures and Libraries Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/09-sql) 
+	* 05 - [Math Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/contest-christmas)
+	* 07 - [Graphs Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/contest-christmas)
+	* 08 - [Geometry Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/contest-christmas)
+
+<!-- Markdown link & img dfn's -->
+[wiki]: https://github.com/antuniooh/uri-resolutions/wiki
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/antuniooh
+[contributors-shield]: https://img.shields.io/github/contributors/antuniooh/uri-resolutions.svg?style=flat-square
+[contributors-url]: https://github.com/antuniooh/uri-resolutions/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/antuniooh/uri-resolutions.svg?style=flat-square
+[forks-url]: https://github.com/antuniooh/uri-resolutions/network/members
+[stars-shield]: https://img.shields.io/github/stars/antuniooh/uri-resolutions.svg?style=flat-square
+[stars-url]: https://github.com/antuniooh/uri-resolutions/stargazers
+[issues-shield]: https://img.shields.io/github/issues/antuniooh/uri-resolutions.svg?style=flat-square
+[issues-url]: https://github.com/antuniooh/uri-resolutions/issues
+[license-shield]: https://img.shields.io/github/license/antuniooh/uri-resolutions.svg?style=flat-square
+[license-url]: https://github.com/antuniooh/uri-resolutions/blob/master/LICENSE
+
+## Contact
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[See my project on GitHub](https://github.com/antuniooh/uri-resolutions/)
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://opensource.org/licenses/MIT)**	
+- Copyright 2020 © <a href="https://www.linkedin.com/in/antuniooh" target="_blank">antuniooh</a>.
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [URI ONLINE JUDGE](https://www.urionlinejudge.com.br/)
