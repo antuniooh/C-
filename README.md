@@ -1,6 +1,8 @@
 # URI Online Judge - Resolutions
 
-![](https://imgur.com/5NwUUpc.png)
+<p align="center">
+<a href="https://www.urionlinejudge.com.br/judge/"><img src="https://imgur.com/5NwUUpc.png"/></a">
+</p>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
