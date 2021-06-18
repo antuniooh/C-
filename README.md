@@ -5,10 +5,17 @@
 </p>
 
 <p align="center">
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/antuniooh/uri-resolutions">
+
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/antuniooh/uri-resolutions">
+  
+  <a href="https://github.com/antuniooh/uri-resolutions/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/antuniooh/uri-resolutions">
+  </a>
+  
+   <img alt="GitHub" src="https://img.shields.io/github/license/antuniooh/uri-resolutions">
 </p>
+
 
 > All my solutions for problems from URI Online Judge.
 
