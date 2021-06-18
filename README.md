@@ -4,9 +4,11 @@
 <a href="https://www.urionlinejudge.com.br/judge/"><img src="https://imgur.com/5NwUUpc.png"/></a">
 </p>
 
+<p align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+</p>
 
 > All my solutions for problems from URI Online Judge.
 
@@ -80,19 +82,12 @@ This division help the users to focus on specific programming topics. All proble
 [license-shield]: https://img.shields.io/github/license/antuniooh/uri-resolutions.svg?style=flat-square
 [license-url]: https://github.com/antuniooh/uri-resolutions/blob/master/LICENSE
 
-## Contact
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[See my project on GitHub](https://github.com/antuniooh/uri-resolutions/)
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](https://opensource.org/licenses/MIT)**	
-- Copyright 2020 © <a href="https://www.linkedin.com/in/antuniooh" target="_blank">antuniooh</a>.
+- Copyright 2021 © <a href="https://www.linkedin.com/in/antuniooh" target="_blank">antuniooh</a>.
 
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [URI ONLINE JUDGE](https://www.urionlinejudge.com.br/)
