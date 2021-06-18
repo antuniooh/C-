@@ -1,15 +1,12 @@
-# URI Online Judge - Solutions
+# URI Online Judge - Resolutions
+
+![](https://imgur.com/5NwUUpc.png)
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 > All my solutions for problems from URI Online Judge.
-
-> Keywords: `URI`, `judge`, `problems`, `contests`, `competitive`, `programming`, `solutions`, `ad-hoc`, `sql`, `strings`, `algorithms`, `math`, `graphs`
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -24,8 +21,6 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-![](uri-logo.png)
 
 The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing.
 
@@ -60,13 +55,13 @@ This division help the users to focus on specific programming topics. All proble
 * <b>Submissions:</b> 494
 * <b>Hardest Solved:</b> 1834
 * <b>Hardest Tried:</b> 1797
-	* 01 - [Beginner Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/01-beginner)
-	* 02 - [Ad-Hoc Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/02-ad-hoc)
-	* 03 - [Strings Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/03-strings)
-	* 04 - [Structures and Libraries Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/09-sql) 
-	* 05 - [Math Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/contest-christmas)
-	* 07 - [Graphs Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/contest-christmas)
-	* 08 - [Geometry Problems Solutions](https://github.com/limadmarcos/uri-resolutions/tree/master/contest-christmas)
+	* 01 - [Beginner Problems Solutions](https://github.com/antuniooh/uri-resolutions/tree/master/1.%20Beginner)
+	* 02 - [Ad-Hoc Problems Solutions](https://github.com/antuniooh/uri-resolutions/tree/master/2.%20AD-HOC)
+	* 03 - [Strings Problems Solutions](https://github.com/antuniooh/uri-resolutions/tree/master/3.%20Strings)
+	* 04 - [Structures and Libraries Problems Solutions](https://github.com/antuniooh/uri-resolutions/tree/master/4.%20Structures%20and%20Libraries)
+	* 05 - [Math Problems Solutions](https://github.com/antuniooh/uri-resolutions/tree/master/5.%20Math)
+	* 07 - [Graphs Problems Solutions](https://github.com/antuniooh/uri-resolutions/tree/master/7.%20Graphs)
+	* 08 - [Geometry Problems Solutions](https://github.com/antuniooh/uri-resolutions/tree/master/8.%20Geometry)
 
 <!-- Markdown link & img dfn's -->
 [wiki]: https://github.com/antuniooh/uri-resolutions/wiki
